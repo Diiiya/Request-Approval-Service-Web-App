@@ -1,0 +1,47 @@
+/**
+ * User
+ */
+export const GET_USER = "GET_USER";
+export const SET_USER = "SET_USER";
+
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const SET_ALL_USERS = "SET_ALL_USERS";
+
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGIN_USER_SUCCESS = "LOGIN_USER_SUCCESS";
+export const LOGIN_USER_ERROR = "LOGIN_USER_ERROR";
+
+
+/**
+ * Policy
+ */
+export const CREATE_POLICY = "CREATE_POLICY";
+export const CREATE_POLICY_SUCCESS = "CREATE_POLICY_SUCCESS";
+export const CREATE_POLICY_ERROR = "CREATE_POLICY_ERROR";
+
+export const GET_ALL_POLICIES = "GET_ALL_POLICIES";
+export const SET_ALL_POLICIES = "SET_ALL_POLICIES";
+
+
+/**
+ * Request
+ */
+export const CREATE_REQUEST = "CREATE_REQUEST";
+export const CREATE_REQUEST_SUCCESS = "CREATE_REQUEST_SUCCESS";
+export const CREATE_REQUEST_ERROR = "CREATE_REQUEST_ERROR";
+
+export const GET_ALL_REQUESTS = "GET_ALL_REQUESTS";
+export const SET_ALL_REQUESTS = "SET_ALL_REQUESTS";
+
+export const GET_ALL_USER_REQUESTS = "GET_ALL_USER_REQUESTS";
+export const SET_ALL_USER_REQUESTS = "SET_ALL_USER_REQUESTS";
+
+export const UPDATE_REQUEST = "UPDATE_REQUEST";
+export const UPDATE_REQUEST_SUCCESS = "UPDATE_REQUEST_SUCCESS";
+export const UPDATE_REQUEST_ERROR = "UPDATE_REQUEST_ERROR";
+
+
+/**
+ * Reset Response success/failure
+ */
+export const RESET_TYPE = "RESET_TYPE";

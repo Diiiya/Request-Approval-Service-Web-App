@@ -1,0 +1,23 @@
+.loginBody {
+    background: rgba(255, 255, 255, 0.23);
+    height: 500px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(11.1px);
+    -webkit-backdrop-filter: blur(11.1px);
+    border: 1px solid rgba(255, 255, 255, 0.24);
+}
+
+.loginTitle {
+    margin-top: 50px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.loginFields {
+    justify-content: center;
+    margin-top: 50px;
+    display: grid;
+    align-content: space-between;
+    height: 160px;
+}

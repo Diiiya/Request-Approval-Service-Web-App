@@ -1,0 +1,39 @@
+.viewRequestBody {
+    background: rgba(255, 255, 255, 0.23);
+    height: 500px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(11.1px);
+    -webkit-backdrop-filter: blur(11.1px);
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    color: whitesmoke;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.requestsDiv {
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 70%;
+    float: left;
+}
+
+.requestText {
+    color: aliceblue;
+}
+
+.lineStyle {
+    margin-bottom: 15px;
+}
+
+.statusDiv {
+    width: 100px;
+    margin-top: 50px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
